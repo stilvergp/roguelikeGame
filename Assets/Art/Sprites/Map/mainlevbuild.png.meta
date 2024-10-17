@@ -1,0 +1,243 @@
+fileFormatVersion: 2
+guid: 8ab27c4e47ae9cf47b5bc95c36c98b6b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mainlevbuild_10
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 535
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93a3baa8939561443bb22c01f8a6d516
+      internalID: -423367524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mainlevbuild_11
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 535
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b61deef2d72ab3c42bb7398b662b63b7
+      internalID: 248218014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      mainlevbuild_0: 1956877251
+      mainlevbuild_1: 494295250
+      mainlevbuild_10: -423367524
+      mainlevbuild_11: 248218014
+      mainlevbuild_12: -1758432275
+      mainlevbuild_13: -1623131004
+      mainlevbuild_14: -817366150
+      mainlevbuild_15: -914708946
+      mainlevbuild_16: -661755344
+      mainlevbuild_17: -1768140929
+      mainlevbuild_18: -1529374100
+      mainlevbuild_19: 1240980463
+      mainlevbuild_2: 433483903
+      mainlevbuild_20: -469859170
+      mainlevbuild_21: -1657024766
+      mainlevbuild_22: -453835844
+      mainlevbuild_23: -1630255300
+      mainlevbuild_24: -1992122344
+      mainlevbuild_25: 1864382594
+      mainlevbuild_26: 403459220
+      mainlevbuild_27: -1805651555
+      mainlevbuild_28: 1849552317
+      mainlevbuild_29: -46857911
+      mainlevbuild_3: 125518922
+      mainlevbuild_30: -1188641750
+      mainlevbuild_31: -374633515
+      mainlevbuild_32: -1376370897
+      mainlevbuild_33: 220765570
+      mainlevbuild_34: -1339872397
+      mainlevbuild_35: -110542660
+      mainlevbuild_36: 452616808
+      mainlevbuild_37: 1644433118
+      mainlevbuild_38: -1365182631
+      mainlevbuild_39: -781086740
+      mainlevbuild_4: 1039747180
+      mainlevbuild_40: 498907800
+      mainlevbuild_41: -232287005
+      mainlevbuild_42: 1959217751
+      mainlevbuild_43: -444103339
+      mainlevbuild_44: -1767895279
+      mainlevbuild_45: 1212122207
+      mainlevbuild_46: 2043540681
+      mainlevbuild_47: -1643667545
+      mainlevbuild_48: 1571496652
+      mainlevbuild_49: 1067442055
+      mainlevbuild_5: 1022198469
+      mainlevbuild_50: -94578424
+      mainlevbuild_51: -1143961874
+      mainlevbuild_52: -289676545
+      mainlevbuild_53: 1126586556
+      mainlevbuild_54: 1081182902
+      mainlevbuild_55: -1347900135
+      mainlevbuild_56: -2101211675
+      mainlevbuild_57: 2079701920
+      mainlevbuild_58: -142706449
+      mainlevbuild_59: -560832582
+      mainlevbuild_6: -251589711
+      mainlevbuild_60: 12116864
+      mainlevbuild_61: 1690348636
+      mainlevbuild_62: -962084676
+      mainlevbuild_63: 1099203787
+      mainlevbuild_64: -1144689664
+      mainlevbuild_65: 1089188042
+      mainlevbuild_66: -1722416008
+      mainlevbuild_67: -802219154
+      mainlevbuild_68: -700624070
+      mainlevbuild_69: -960338005
+      mainlevbuild_7: -1140101480
+      mainlevbuild_70: 281445096
+      mainlevbuild_71: -1507284123
+      mainlevbuild_72: 117637522
+      mainlevbuild_73: -1115840617
+      mainlevbuild_8: 1261022908
+      mainlevbuild_9: 544382183
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
